@@ -1,1 +1,1 @@
-# php Pasta de estudos e aprendizado próprio sobre PHP
+Pasta de estudos e aprendizado próprio sobre PHP
